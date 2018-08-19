@@ -10,12 +10,12 @@ $ npm start
 ```
 >Screenshots from the App
 
-![text](./src/img3.png)
+![text](./src/img3.PNG)
 
-![text](./src/img4.png)
+![text](./src/img4.PNG)
 
-![text](./src/img1.png)
+![text](./src/img1.PNG)
 
-![text](./src/img2.png)
+![text](./src/img2.PNG)
 
 
